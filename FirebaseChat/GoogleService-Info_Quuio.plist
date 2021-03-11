@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950449895955-o4pjmgoomo4t4oo4it91chf3qkfob9mr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950449895955-o4pjmgoomo4t4oo4it91chf3qkfob9mr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEci8iUOVTQX_G0Rj4qfLSyGCbxygFL5s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950449895955</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Quuio</string>
+	<key>PROJECT_ID</key>
+	<string>quuio-94ec7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quuio-94ec7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950449895955:ios:b8309aed35a8d621449de6</string>
+</dict>
+</plist>
